@@ -1,0 +1,51 @@
+.headings { 
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.headings h1 { 
+    margin-bottom: 30px;
+}
+
+.headings h5 { 
+    margin-bottom: 50px;
+}
+
+span { 
+    display: block;
+    
+}
+
+.canvas { 
+    text-align: center;
+    margin: 100px auto 100px;
+    width: 80%;
+    
+}
+
+.button { 
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: solid black 1px;
+    margin: 5px;
+    
+   
+}
+
+#white { 
+    background-color: white;
+}
+
+#Blue { 
+    background-color: blue;
+}
+
+#yellow { 
+    background-color: yellow;
+}
+
+#red { 
+    background-color: red;
+}
